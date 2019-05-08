@@ -1,4 +1,4 @@
 #How to install:
 
-Download from repos
-Open with any browser
+1. Download from repos
+2. Open with any browser
