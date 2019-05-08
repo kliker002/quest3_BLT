@@ -1,0 +1,14 @@
+body .container{
+    width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+
+
+}
+body .container div{
+    width: 98px;
+    height: 98px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    float: left;
+}
